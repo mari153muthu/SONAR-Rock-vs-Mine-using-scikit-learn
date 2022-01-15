@@ -24,7 +24,7 @@
       <a>Solution</a>
     </td>
     <td align="left"  width="1000">
-      <a>To predict the Mines, using an ML model, with the help of the data from SONAR Waves.</a>
+      <a>Predict the Mines, using an ML model, with the help of the data from SONAR Waves.</a>
     </td>
   </tr>
   
@@ -42,7 +42,7 @@
       <a>Machine Learning Model</a>
     </td>
     <td align="left"  width="1000">
-      <a>Logistic Regression</a>
+      <a>Logistic Regression (Supervised Learning)</a>
     </td>
   </tr>
   
